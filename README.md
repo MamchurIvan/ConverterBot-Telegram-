@@ -1,1 +1,2 @@
-# ConverterBot-Telegram-
+# ConverterBot-Telegram
+Бот возвращает цену на определённое количество валюты (евро, доллар или рубль).
